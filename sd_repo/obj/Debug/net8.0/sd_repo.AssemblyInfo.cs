@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sd_repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32fa5d07cc14fd63533602fd5438566847c3fc98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f968740dd93f4ed96de6fc40346be16cc799df")]
 [assembly: System.Reflection.AssemblyProductAttribute("sd_repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sd_repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
