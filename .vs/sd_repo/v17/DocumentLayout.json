@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\being\\source\\repos\\sd_repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\dependencyregistration\\dependencyrefistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\dependencyregistration\\dependencyrefistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\sd_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\dependencyregistration\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\dependencyregistration\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\studentrepo\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\repositories\\studentrepo\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\factories\\studentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\factories\\studentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\factories\\istudentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\factories\\istudentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\studentrepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\repositories\\studentrepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\repositories\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\repositories\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|c:\\users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B097C838-09A9-4756-9C5E-2D7415065460}|sd_repo\\sd_repo.csproj|solutionrelative:sd_repo\\sd_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +78,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Services\\IStudentService.cs",
+              "RelativeToolTip": "sd_repo\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Services\\StudentService.cs",
+              "RelativeToolTip": "sd_repo\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\DependencyRegistration\\DependencyRegistrar.cs",
+              "RelativeDocumentMoniker": "sd_repo\\DependencyRegistration\\DependencyRegistrar.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\DependencyRegistration\\DependencyRegistrar.cs",
+              "RelativeToolTip": "sd_repo\\DependencyRegistration\\DependencyRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:35:16.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "sd_repo\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:22:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Program.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Program.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Program.cs",
+              "RelativeToolTip": "sd_repo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:16:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sd_repo.csproj",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj",
+              "RelativeDocumentMoniker": "sd_repo\\sd_repo.csproj",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj",
+              "RelativeToolTip": "sd_repo\\sd_repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T02:05:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\StudentRepo\\StudentRepository.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\StudentRepo\\StudentRepository.cs",
@@ -75,7 +173,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "IStudentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Factories\\IStudentFactory.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Factories\\IStudentFactory.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Factories\\IStudentFactory.cs",
+              "RelativeToolTip": "sd_repo\\Factories\\IStudentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:22:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Model\\Student.cs",
+              "RelativeToolTip": "sd_repo\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:24:20.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Factories\\StudentFactory.cs",
+              "RelativeDocumentMoniker": "sd_repo\\Factories\\StudentFactory.cs",
+              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Factories\\StudentFactory.cs",
+              "RelativeToolTip": "sd_repo\\Factories\\StudentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:21:41.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\StudentRepo\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\StudentRepo\\IStudentRepository.cs",
@@ -88,20 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyRefistrar.cs",
-              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\DependencyRegistration\\DependencyRefistrar.cs",
-              "RelativeDocumentMoniker": "sd_repo\\DependencyRegistration\\DependencyRefistrar.cs",
-              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\DependencyRegistration\\DependencyRefistrar.cs",
-              "RelativeToolTip": "sd_repo\\DependencyRegistration\\DependencyRefistrar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:39:54.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\UnitOfWorks\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\UnitOfWorks\\UnitOfWork.cs",
@@ -109,12 +233,11 @@
               "RelativeToolTip": "sd_repo\\Repositories\\UnitOfWorks\\UnitOfWork.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:30:23.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T02:30:23.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\UnitOfWorks\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\UnitOfWorks\\IUnitOfWork.cs",
@@ -122,25 +245,24 @@
               "RelativeToolTip": "sd_repo\\Repositories\\UnitOfWorks\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:28:52.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T02:28:52.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "iRepository.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\GenericRepository\\iRepository.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\GenericRepository\\iRepository.cs",
               "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\GenericRepository\\iRepository.cs",
               "RelativeToolTip": "sd_repo\\Repositories\\GenericRepository\\iRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T02:30:42.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Repositories\\GenericRepository\\Repository.cs",
               "RelativeDocumentMoniker": "sd_repo\\Repositories\\GenericRepository\\Repository.cs",
@@ -148,12 +270,11 @@
               "RelativeToolTip": "sd_repo\\Repositories\\GenericRepository\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:30:21.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T02:30:21.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\appsettings.json",
               "RelativeDocumentMoniker": "sd_repo\\appsettings.json",
@@ -161,24 +282,11 @@
               "RelativeToolTip": "sd_repo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T02:21:49.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T02:21:49.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Program.cs",
-              "RelativeDocumentMoniker": "sd_repo\\Program.cs",
-              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Program.cs",
-              "RelativeToolTip": "sd_repo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T02:16:04.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "sd_repo\\Data\\ApplicationDbContext.cs",
@@ -187,30 +295,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T02:21:04.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "sd_repo.csproj",
-              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj",
-              "RelativeDocumentMoniker": "sd_repo\\sd_repo.csproj",
-              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\sd_repo.csproj",
-              "RelativeToolTip": "sd_repo\\sd_repo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-21T02:05:12.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "sd_repo\\Model\\Student.cs",
-              "ToolTip": "C:\\Users\\being\\source\\repos\\sd_repo\\sd_repo\\Model\\Student.cs",
-              "RelativeToolTip": "sd_repo\\Model\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T02:24:20.892Z"
             }
           ]
         }
